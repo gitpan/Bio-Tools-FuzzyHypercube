@@ -1,0 +1,22 @@
+Bio/Tools/FuzzyHypercube version 0.01
+=====================================
+
+Fuzzy Hypercube is an idea proposed for estimating difference
+between two sequences. For details, see The fuzzy polynucleotide
+space: basic properties written by Angela Torres and Juan J. Nieto
+published in Bioinformatics Journal.
+
+INSTALLATION
+
+To install this module type the following:
+
+   perl Makefile.PL
+   make
+   make test
+   make install
+
+COPYRIGHT AND LICENCE
+
+Copyright (C) 2003 xern <xern@cpan.org>
+
+This module is free software; you can redistribute it or modify it under the same terms as Perl itself.
